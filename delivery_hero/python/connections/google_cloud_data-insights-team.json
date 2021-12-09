@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dh-darkstores-live",
+  "private_key_id": "26c10131ade52bf5e9f8906a6411581229ec060e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTwDEKrFkwMVch\njuApnhTj5ILWNB80fUSZuhJSRbXQnxl5tLjpFThMeBrSKadaT40qzQdXa6aai1tq\nX+rHN8qhGbbdinMazYBPoF3hw5hnAiFphCRkvq1b7DeLi2Jpx3qJ5Sllxzs+NsbM\nZo2nC+13l51ivbraY2gkw9BejNXexlSKTArAZyDgwMiYEZpzL8IFVM3UOjNp8np0\n4y4stnLD2yv2XN/jH4cKI4sLkpMo+yWslpLmGXTCLI5YlRr7mZhT4if4zK4wksNS\nOVDo+DtNYvZhZh++98gcfkSHdjhtJw3i430Fvnn4oOGKc5Jl2ZLDK8f1qWp/fv3u\nIpK+VUbzAgMBAAECggEABEhXMKdhFD8imhH+hse4i/p2nlbmcvllTbZSiP/l7k9g\n0154kRKMGmfShh9Nsny9jQK/KGsVpSKs2/GshV8ZuX3Fan3IulWB0dWHochHxmlA\nY5bGqkUahAQdP3mj0JhT1oLlJYVvK4hBdmyvUrumytrKhz2O8rw8uJcrttU2M1mV\nBAeN2kZ483y6uZh/lFZ3SUHvQPAlveEjX6AjbcTYtaSDaPXu+x0k91Iw5oei5o/w\nIcswBTzQBvb0Z/LuL0nXE724nA7vp4GpsQ3/zX/ltsRix8fpj/XNLztHjgwGzlzH\n9IT4Wl439qqFnmVaOR1Ekm3fdmvbhJYK25edUhRpiQKBgQD0Zgzqv/bafqjLJOYN\nz5frySuMY5UPVh+6Vgwy7kTmnoaegV2FQ26FCf38TePR512AjvFBzolWRwh0t1sY\nQ2VuH/BEk4pjIThYmhe7HYtWgY6kM83RrRb9QogDCt7jltifiYhFPAfu6r/Pi07Y\nMPPbX5H49AgJwuYU/4Amdxr8JQKBgQDdzWbUpoktD1P0zL56/a1GFj+IDMnTPFEW\n8g0cEOIwhIj8xxcMGH+uozN3KE+tLQpWh6IGUvarhDUN+IkJ4gVxhdh5fkbSFWIe\ne8C7BNiQueSDaVl3096FY4lpF3dq1uQoTMlzjTG/SKYMTrU9e0iqLinh6DFiE8na\nIYR1Xsw/NwKBgH5kjIeXEW38FQVCJuu7kYDyP+BR29PboXr3Z0Wrrdxq3Yn5s0jp\nD64j9cNW8NwsQFHtGt4Cl0oUYE4kSSsqJ7mlMNf2SZpsorxHrMArTlVFmWRYGjg2\nwO3nS3nvVEf1SkBvmxbbLeskYmBOVk8+Oc8ZBN/wLHwH3H+9hyPdcwo1AoGBAI7T\nCilax7BdU2mqQen+2gnsn6Ji4b+E8o589RYihRRK888aAGxIhkeVTbmoGo5gF20a\nz6mU2MQfUO6bINtdULYGQxwQxVfYbyND+xoyh6XCHjTErNjtdDeencgvVTVWBPsy\nXvJqdCNBi7MXJ7vcXDFBorSWiN4n8e3lcV8G2SzHAoGBAN1KMYASr0FER1k875WA\nq+Lqxx2IgbhP090H+Ey0+DYdfvPEh9X22M2FFh0I1mI1hsRxrNNGqy+MEkyqZK5I\nztuAvleVk489jZPM09XhDXDs3MgclOKVC/68Yhdceg3gpGL40wRDtx0SaKqfRL2T\n7RAk0K6EhDmrLNbc2AKsa3Y5\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-insights-team@dh-darkstores-live.iam.gserviceaccount.com",
+  "client_id": "114746945335710587451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-insights-team%40dh-darkstores-live.iam.gserviceaccount.com"
+  }
